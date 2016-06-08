@@ -1,0 +1,23 @@
+{
+  "name": "Mega Site Navigation",
+  "version": "0.0.0",
+  "authors": [
+    "Rafał rudnicki <rafal.rudnicki@piotermen.com>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "components/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "compass-mixins": "~1.0.2",
+    "bourbon": "~4.2.7"
+  }
+}

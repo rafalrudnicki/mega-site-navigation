@@ -1,3 +1,7 @@
 .buildpath
 .project
 .settings
+node_modules
+.pydevproject
+bower_components
+.pydevproject
