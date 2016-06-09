@@ -1,4 +1,4 @@
-@import './bower_components/compass-mixins/lib/_compass';
+//@import './bower_components/compass-mixins/lib/_compass';
 @import './bower_components/bourbon/app/assets/stylesheets/_bourbon.scss';
 
 
@@ -7,7 +7,7 @@
 
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Main components 
 
@@ -83,6 +83,7 @@ Main components
 }
 
 .cd-header-buttons {
+  margin:0;
 	position: absolute;
 	display: inline-block;
 	top: 3px;
@@ -280,6 +281,7 @@ Main components
 }
 
 .cd-primary-nav, .cd-primary-nav ul {
+  margin:0;
   list-style: none;
   
 	position: fixed;
